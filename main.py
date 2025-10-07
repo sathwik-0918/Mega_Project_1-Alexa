@@ -9,7 +9,7 @@ import requests
 recognizer = sr.Recognizer()
 # next we have to initialize engine and by init it will be initialized
 engine = pyttsx3.init()   
-newsapi = "0aefa14556b74b60949627f71f442813"
+# newsapi = "0aefa14556b74b60949627f71f442813"
 
 
 # now we have to make a function which takes text and speaks it
